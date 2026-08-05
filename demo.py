@@ -1,2 +1,4 @@
 print("1st commit")
 print("changes made")
+print("chane")
+print("branch 1 -changes made")
